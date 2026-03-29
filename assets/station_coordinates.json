@@ -1,0 +1,517 @@
+{
+  "map_width": 1750,
+  "map_height": 1800,
+  "stations": [
+    {
+      "name": "Девяткино",
+      "slug": "devyatkino",
+      "line_id": "l1",
+      "x": 938.0,
+      "y": 204.0
+    },
+    {
+      "name": "Гражданский проспект",
+      "slug": "grazhdanskiy-prospekt",
+      "line_id": "l1",
+      "x": 938.0,
+      "y": 260.0
+    },
+    {
+      "name": "Академическая",
+      "slug": "akademicheskaya",
+      "line_id": "l1",
+      "x": 938.0,
+      "y": 316.0
+    },
+    {
+      "name": "Политехническая",
+      "slug": "politehnicheskaya",
+      "line_id": "l1",
+      "x": 938.0,
+      "y": 372.0
+    },
+    {
+      "name": "Площадь Мужества",
+      "slug": "ploschad-muzhestva",
+      "line_id": "l1",
+      "x": 938.0,
+      "y": 428.0
+    },
+    {
+      "name": "Лесная",
+      "slug": "lesnaya",
+      "line_id": "l1",
+      "x": 938.0,
+      "y": 484.0
+    },
+    {
+      "name": "Выборгская",
+      "slug": "vyborgskaya",
+      "line_id": "l1",
+      "x": 938.0,
+      "y": 540.0
+    },
+    {
+      "name": "Площадь Ленина",
+      "slug": "ploschad-lenina",
+      "line_id": "l1",
+      "x": 938.0,
+      "y": 596.0
+    },
+    {
+      "name": "Чернышевская",
+      "slug": "chernyshevskaya",
+      "line_id": "l1",
+      "x": 938.0,
+      "y": 660.0
+    },
+    {
+      "name": "Площадь Восстания",
+      "slug": "ploschad-vosstaniya",
+      "line_id": "l1",
+      "x": 938.0,
+      "y": 734.0
+    },
+    {
+      "name": "Владимирская",
+      "slug": "vladimirskaya",
+      "line_id": "l1",
+      "x": 923.0,
+      "y": 869.0
+    },
+    {
+      "name": "Пушкинская",
+      "slug": "pushkinskaya",
+      "line_id": "l1",
+      "x": 804.0,
+      "y": 988.0
+    },
+    {
+      "name": "Технологический институт-1",
+      "slug": "tehnologicheskiy-institut-1",
+      "line_id": "l1",
+      "x": 701.0,
+      "y": 1091.0
+    },
+    {
+      "name": "Балтийская",
+      "slug": "baltiyskaya",
+      "line_id": "l1",
+      "x": 622.0,
+      "y": 1170.0
+    },
+    {
+      "name": "Нарвская",
+      "slug": "narvskaya",
+      "line_id": "l1",
+      "x": 546.0,
+      "y": 1246.0
+    },
+    {
+      "name": "Кировский завод",
+      "slug": "kirovskiy-zavod",
+      "line_id": "l1",
+      "x": 285.0,
+      "y": 890.0
+    },
+    {
+      "name": "Автово",
+      "slug": "avtovo",
+      "line_id": "l1",
+      "x": 504.0,
+      "y": 1364.0
+    },
+    {
+      "name": "Ленинский проспект",
+      "slug": "leninskiy-prospekt",
+      "line_id": "l1",
+      "x": 504.0,
+      "y": 1420.0
+    },
+    {
+      "name": "Проспект Ветеранов",
+      "slug": "prospekt-veteranov",
+      "line_id": "l1",
+      "x": 504.0,
+      "y": 1476.0
+    },
+    {
+      "name": "Парнас",
+      "slug": "parnas",
+      "line_id": "l2",
+      "x": 716.0,
+      "y": 204.0
+    },
+    {
+      "name": "Проспект Просвещения",
+      "slug": "prospekt-prosvescheniya",
+      "line_id": "l2",
+      "x": 380.0,
+      "y": 120.0
+    },
+    {
+      "name": "Озерки",
+      "slug": "ozerki",
+      "line_id": "l2",
+      "x": 716.0,
+      "y": 316.0
+    },
+    {
+      "name": "Удельная",
+      "slug": "udelnaya",
+      "line_id": "l2",
+      "x": 716.0,
+      "y": 372.0
+    },
+    {
+      "name": "Пионерская",
+      "slug": "pionerskaya",
+      "line_id": "l2",
+      "x": 716.0,
+      "y": 428.0
+    },
+    {
+      "name": "Чёрная речка",
+      "slug": "chernaya-rechka",
+      "line_id": "l2",
+      "x": 716.0,
+      "y": 484.0
+    },
+    {
+      "name": "Петроградская",
+      "slug": "petrogradskaya",
+      "line_id": "l2",
+      "x": 716.0,
+      "y": 540.0
+    },
+    {
+      "name": "Горьковская",
+      "slug": "gorkovskaya",
+      "line_id": "l2",
+      "x": 716.0,
+      "y": 594.0
+    },
+    {
+      "name": "Невский проспект",
+      "slug": "nevskiy-prospekt",
+      "line_id": "l2",
+      "x": 380.0,
+      "y": 535.0
+    },
+    {
+      "name": "Сенная площадь",
+      "slug": "sennaya-ploschad",
+      "line_id": "l2",
+      "x": 380.0,
+      "y": 635.0
+    },
+    {
+      "name": "Технологический институт-2",
+      "slug": "tehnologicheskiy-institut-2",
+      "line_id": "l2",
+      "x": 716.0,
+      "y": 1076.0
+    },
+    {
+      "name": "Фрунзенская",
+      "slug": "frunzenskaya",
+      "line_id": "l2",
+      "x": 380.0,
+      "y": 760.0
+    },
+    {
+      "name": "Московские ворота",
+      "slug": "moskovskie-vorota",
+      "line_id": "l2",
+      "x": 380.0,
+      "y": 825.0
+    },
+    {
+      "name": "Электросила",
+      "slug": "elektrosila",
+      "line_id": "l2",
+      "x": 716.0,
+      "y": 1252.0
+    },
+    {
+      "name": "Парк Победы",
+      "slug": "park-pobedy",
+      "line_id": "l2",
+      "x": 380.0,
+      "y": 955.0
+    },
+    {
+      "name": "Московская",
+      "slug": "moskovskaya",
+      "line_id": "l2",
+      "x": 716.0,
+      "y": 1364.0
+    },
+    {
+      "name": "Звёздная",
+      "slug": "zvezdnaya",
+      "line_id": "l2",
+      "x": 716.0,
+      "y": 1420.0
+    },
+    {
+      "name": "Купчино",
+      "slug": "kupchino",
+      "line_id": "l2",
+      "x": 716.0,
+      "y": 1476.0
+    },
+    {
+      "name": "Беговая",
+      "slug": "begovaya",
+      "line_id": "l3",
+      "x": 286.0,
+      "y": 484.0
+    },
+    {
+      "name": "Зенит",
+      "slug": "zenit",
+      "line_id": "l3",
+      "x": 286.0,
+      "y": 540.0
+    },
+    {
+      "name": "Приморская",
+      "slug": "primorskaya",
+      "line_id": "l3",
+      "x": 286.0,
+      "y": 650.0
+    },
+    {
+      "name": "Василеостровская",
+      "slug": "vasileostrovskaya",
+      "line_id": "l3",
+      "x": 372.0,
+      "y": 734.0
+    },
+    {
+      "name": "Гостиный двор",
+      "slug": "gostinyy-dvor",
+      "line_id": "l3",
+      "x": 716.0,
+      "y": 734.0
+    },
+    {
+      "name": "Маяковская",
+      "slug": "mayakovskaya",
+      "line_id": "l3",
+      "x": 918.0,
+      "y": 734.0
+    },
+    {
+      "name": "Площадь Александра Невского-1",
+      "slug": "ploschad-aleksandra-nevskogo-1",
+      "line_id": "l3",
+      "x": 1202.0,
+      "y": 834.0
+    },
+    {
+      "name": "Елизаровская",
+      "slug": "elizarovskaya",
+      "line_id": "l3",
+      "x": 1202.0,
+      "y": 1086.0
+    },
+    {
+      "name": "Ломоносовская",
+      "slug": "lomonosovskaya",
+      "line_id": "l3",
+      "x": 1202.0,
+      "y": 1140.0
+    },
+    {
+      "name": "Пролетарская",
+      "slug": "proletarskaya",
+      "line_id": "l3",
+      "x": 1202.0,
+      "y": 1196.0
+    },
+    {
+      "name": "Обухово",
+      "slug": "obuhovo",
+      "line_id": "l3",
+      "x": 1202.0,
+      "y": 1252.0
+    },
+    {
+      "name": "Рыбацкое",
+      "slug": "rybatskoe",
+      "line_id": "l3",
+      "x": 1202.0,
+      "y": 1308.0
+    },
+    {
+      "name": "Горный институт",
+      "slug": "gornyy-institut",
+      "line_id": "l4",
+      "x": 170.0,
+      "y": 905.0
+    },
+    {
+      "name": "Спасская",
+      "slug": "spasskaya",
+      "line_id": "l4",
+      "x": 734.0,
+      "y": 854.0
+    },
+    {
+      "name": "Достоевская",
+      "slug": "dostoevskaya",
+      "line_id": "l4",
+      "x": 405.0,
+      "y": 585.0
+    },
+    {
+      "name": "Лиговский проспект",
+      "slug": "ligovskiy-prospekt",
+      "line_id": "l4",
+      "x": 465.0,
+      "y": 625.0
+    },
+    {
+      "name": "Площадь Александра Невского-2",
+      "slug": "ploschad-aleksandra-nevskogo-2",
+      "line_id": "l4",
+      "x": 525.0,
+      "y": 735.0
+    },
+    {
+      "name": "Новочеркасская",
+      "slug": "novocherkasskaya",
+      "line_id": "l4",
+      "x": 1463.0,
+      "y": 922.0
+    },
+    {
+      "name": "Ладожская",
+      "slug": "ladozhskaya",
+      "line_id": "l4",
+      "x": 1463.0,
+      "y": 982.0
+    },
+    {
+      "name": "Проспект Большевиков",
+      "slug": "prospekt-bolshevikov",
+      "line_id": "l4",
+      "x": 1463.0,
+      "y": 1045.0
+    },
+    {
+      "name": "Улица Дыбенко",
+      "slug": "ulitsa-dybenko",
+      "line_id": "l4",
+      "x": 1463.0,
+      "y": 1111.0
+    },
+    {
+      "name": "Комендантский проспект",
+      "slug": "komendantskiy-prospekt",
+      "line_id": "l5",
+      "x": 760.0,
+      "y": 75.0
+    },
+    {
+      "name": "Старая Деревня",
+      "slug": "staraya-derevnya",
+      "line_id": "l5",
+      "x": 504.0,
+      "y": 484.0
+    },
+    {
+      "name": "Крестовский остров",
+      "slug": "krestovskiy-ostrov",
+      "line_id": "l5",
+      "x": 760.0,
+      "y": 195.0
+    },
+    {
+      "name": "Чкаловская",
+      "slug": "chkalovskaya",
+      "line_id": "l5",
+      "x": 504.0,
+      "y": 614.0
+    },
+    {
+      "name": "Спортивная",
+      "slug": "sportivnaya",
+      "line_id": "l5",
+      "x": 528.0,
+      "y": 686.0
+    },
+    {
+      "name": "Адмиралтейская",
+      "slug": "admiralteyskaya",
+      "line_id": "l5",
+      "x": 637.0,
+      "y": 789.0
+    },
+    {
+      "name": "Садовая",
+      "slug": "sadovaya",
+      "line_id": "l5",
+      "x": 716.0,
+      "y": 866.0
+    },
+    {
+      "name": "Звенигородская",
+      "slug": "zvenigorodskaya",
+      "line_id": "l5",
+      "x": 819.0,
+      "y": 973.0
+    },
+    {
+      "name": "Обводный канал",
+      "slug": "obvodnyy-kanal",
+      "line_id": "l5",
+      "x": 903.0,
+      "y": 1055.0
+    },
+    {
+      "name": "Волковская",
+      "slug": "volkovskaya",
+      "line_id": "l5",
+      "x": 938.0,
+      "y": 1196.0
+    },
+    {
+      "name": "Бухарестская",
+      "slug": "buharestskaya",
+      "line_id": "l5",
+      "x": 938.0,
+      "y": 1252.0
+    },
+    {
+      "name": "Международная",
+      "slug": "mezhdunarodnaya",
+      "line_id": "l5",
+      "x": 938.0,
+      "y": 1308.0
+    },
+    {
+      "name": "Проспект Славы",
+      "slug": "prospekt-slavy",
+      "line_id": "l5",
+      "x": 938.0,
+      "y": 1364.0
+    },
+    {
+      "name": "Дунайская",
+      "slug": "dunayskaya",
+      "line_id": "l5",
+      "x": 938.0,
+      "y": 1420.0
+    },
+    {
+      "name": "Шушары",
+      "slug": "shushary",
+      "line_id": "l5",
+      "x": 938.0,
+      "y": 1476.0
+    }
+  ]
+}
